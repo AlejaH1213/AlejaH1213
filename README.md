@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alejas-portfolio.onrender.com/](https://alejas-portfolio.onrender.com/)
 
-- 📫 How to reach me **alejajara2@gmail.com**
+- 📫 Reach me **alejajara2@gmail.com**
 
 - 📄 Know about my experiences [https://alejas-portfolio.onrender.com/images/alejandra_h_resume.pdf](https://alejas-portfolio.onrender.com/images/alejandra_h_resume.pdf)
 
