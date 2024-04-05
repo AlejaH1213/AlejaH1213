@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aleja</h1>
 <h3 align="center">A backend developer with a knack for organization and efficiency</h3>
 
-- 🌱 I’m currently learning **Advanced Python**
+- 🌱 I’m currently learning **Advanced Python and Ruby on Rails**
+
+- I’m currently working on **A Cookbook Recipe App (Backend)**
 
 - 👨‍💻 All of my projects are available at [https://alejas-portfolio.onrender.com/](https://alejas-portfolio.onrender.com/)
 
